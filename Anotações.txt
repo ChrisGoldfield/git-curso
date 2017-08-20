@@ -1,0 +1,32 @@
+git clone [repositorio]
+puxa todo o projeto
+
+git tag 
+confere todas as versoes existentes
+
+git checkout [versao]
+troca a versão
+
+git diff [versao 1] [versao 2]
+compara as diferenças de versoes
+
+git init
+transforma o repositorio atual e suas sub pastas em algo .git
+
+git ls-files
+mostra os arquivos que estao sendo mexidos pelo git
+
+git status
+mostra os status dos arquivos dentro do repositorio
+
+git commit -m "TEXTO"
+grava alterações no repositorio
+
+git add [arquivo]
+adiciona o arquivo no repositorio git
+
+git config user.name "NOME"
+define seu nome no repositorio
+
+git config user.email "E-MAIL"
+define seu email no repositorio
