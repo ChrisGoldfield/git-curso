@@ -5,10 +5,10 @@ git tag
 confere todas as versoes existentes
 
 git checkout [versao]
-troca a versão
+troca a versï¿½o
 
 git diff [versao 1] [versao 2]
-compara as diferenças de versoes
+compara as diferenï¿½as de versoes
 
 git init
 transforma o repositorio atual e suas sub pastas em algo .git
@@ -20,7 +20,7 @@ git status
 mostra os status dos arquivos dentro do repositorio
 
 git commit -m "TEXTO"
-grava alterações no repositorio
+grava alteraï¿½ï¿½es no repositorio
 
 git add [arquivo]
 adiciona o arquivo no repositorio git
@@ -30,3 +30,6 @@ define seu nome no repositorio
 
 git config user.email "E-MAIL"
 define seu email no repositorio
+
+git add -i  
+mostra todas as possiveis opcoes dentro da pasta do repositorio em questao
