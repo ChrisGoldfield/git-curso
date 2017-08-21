@@ -38,10 +38,28 @@ git checkout
 muda de branch
 
 git branch
-mostra todas as branches
+mostra todas as branches locais
+
+git branch -r
+mostra todas as branches remotas
+
+git branch -a
+mostra todas as branches incluindo as remotas e as locais
+
+git checkout -b [nome da branch]
+cria e troca de branch ao mesmo tempo
 
 git pull
 sincroniza a nuvem com os arquivos locais
 
 git push
 coloca os arquivos locais na nuvem
+
+git checkout -t origin/[nome da branch]
+cria uma branch local com o mesmo nome da remota, e troca pra mesmo e ainda faz uma ligação da local com a remota
+
+git push -d origin design
+deleta a branch design
+
+git fetch origin
+verifica as atualizações que foram realizadas
