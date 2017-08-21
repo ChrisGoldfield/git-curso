@@ -33,3 +33,15 @@ define seu email no repositorio
 
 git add -i  
 mostra todas as possiveis opcoes dentro da pasta do repositorio em questao
+
+git checkout
+muda de branch
+
+git branch
+mostra todas as branches
+
+git pull
+sincroniza a nuvem com os arquivos locais
+
+git push
+coloca os arquivos locais na nuvem
