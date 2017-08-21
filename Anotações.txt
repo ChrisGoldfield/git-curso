@@ -20,7 +20,7 @@ git status
 mostra os status dos arquivos dentro do repositorio
 
 git commit -m "TEXTO"
-grava altera��es no repositorio
+grava alterações no repositorio
 
 git add [arquivo]
 adiciona o arquivo no repositorio git
