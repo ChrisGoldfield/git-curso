@@ -33,3 +33,21 @@ define seu email no repositorio
 
 git add -i  
 mostra todas as possiveis opcoes dentro da pasta do repositorio em questao
+
+git commit -a
+adiciona tudo
+
+git branch
+verifica as branches existentes
+
+git branch [nome]
+cria a branch
+
+git checkout [nome da branch]
+troca de branch
+
+git remote add origin [url repositorio]
+adiciona o github ao repositorio local
+
+git push origin master
+coloca o conteudo da maquina local, no repositorio na nuvem
